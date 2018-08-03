@@ -1,0 +1,12 @@
+@font-face {
+   font-family: 'EncodeSansCondensed-SemiBold';
+   src: url('EncodeSansCondensed-SemiBold/font.ttf');
+}
+@font-face {
+   font-family: 'EncodeSansCondensed-Regular';
+   src: url('EncodeSansCondensed-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'EncodeSansCondensed-Light';
+   src: url('EncodeSansCondensed-Light/font.ttf');
+}
