@@ -3388,6 +3388,7 @@ body {
 .cid-r01bZro2RK .card-wrapper .card-box p {
   margin-bottom: 0;
   padding-top: 1.5rem;
+  padding-top: 2rem;
 }
 .cid-r01bZro2RK .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
@@ -3439,6 +3440,39 @@ body {
 .cid-r01dd5imIf .mbr-text,
 .cid-r01dd5imIf .mbr-section-btn {
   color: #465052;
+}
+.cid-r01dd5imIf H3 {
+  color: #232323;
+}
+.cid-r01p9YbGX5 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-r01p9YbGX5 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-r01p9YbGX5 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-r01p9YbGX5 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-r01p9YbGX5 H1 {
+  color: #232323;
+}
+.cid-r01p9YbGX5 .mbr-text,
+.cid-r01p9YbGX5 .mbr-section-btn {
+  color: #465052;
+}
+.cid-r01p9YbGX5 H3 {
+  color: #232323;
 }
 .cid-r01dHxa1RG {
   background-color: #efefef;
